@@ -1,2 +1,2 @@
-# First-Repo
-My First Repository
+# First Repository
+This is my first repository, there's nothing to see here 😉
